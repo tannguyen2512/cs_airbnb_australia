@@ -12,4 +12,4 @@ For this project, we picked the dataset of Airbnb in Australia. After the explor
 
 ## Outcomes:
 - [Data Studio](https://datastudio.google.com/reporting/1d0a0af4-96be-44d0-87ca-5b8320920048)
-- Jupyter notebook and PDF version of Data Studio is uploaded in this repo
+- Jupyter notebook and PDF version of Data Studio are uploaded in this repo
